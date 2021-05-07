@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>card</class>
+ <widget class="QWidget" name="card">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>292</width>
+    <height>382</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>292</width>
+    <height>382</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>292</width>
+    <height>382</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+background-color: rgb(226, 226, 226);
+padding-bottom: 250px;
+border-radius: 30px;
+background-image: url(:/icon/resource/add.png);
+background-repeat: none;
+background-position: center;
+}
+
+QWidget:hover{
+	background-color: rgb(199, 199, 199);
+}</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

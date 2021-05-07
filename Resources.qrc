@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/home.png</file>
+        <file>resource/user.png</file>
+        <file>resource/console.png</file>
+        <file>resource/add.png</file>
+    </qresource>
+</RCC>
